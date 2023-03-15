@@ -1,0 +1,25 @@
+body{
+    background-image:url(../img/gameBackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+#wriper{
+    width: 100%;
+    margin-top: 15%;
+    background: none;
+}
+
+#start{
+    color:rgb(73, 172, 218);
+    background: none;
+    position: flex;
+    margin-top: 5%   ;
+    margin-left: 33.5%;
+    font-size: 200px;
+    font-family: 'IBM Plex Sans', sans-serif;
+    border: none;
+    cursor: progress;
+}
